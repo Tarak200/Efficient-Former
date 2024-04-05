@@ -1,0 +1,15 @@
+On 5000 images.
+
+MobileNetV2
+Total inference time: 12.050543785095215 seconds
+Average inference time per sample: 0.0030126359462738037 seconds
+PoolFormer-S12
+Total inference time: 16.6018385887146 seconds
+Average inference time per sample: 0.00415045964717865 seconds
+Levit-256
+Total inference time: 11.826931476593018 seconds
+Average inference time per sample: 0.0029567328691482543 seconds
+EfficientFormer
+Total inference time: 13.939359426498413 seconds
+Average inference time per sample: 0.0034848398566246033 seconds
+
